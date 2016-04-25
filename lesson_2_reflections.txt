@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 it will build .git folder, which is actually a git system. I can now make changes and commit.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+staging area is where you store all the changes that are ready to commit to the repository. you can still decide not to commit to the repository. you can add changes to the staging area sometimes, but you dont want to commit it till a feature is done

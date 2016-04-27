@@ -2,3 +2,8 @@ When would you want to use a remote repository rather than keeping all your work
 
 when you want to share it to other people?
 when you want to work in different computers or even offline, you can always download the latest version on github.
+
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+if the remote repository is older than your local repository, you dont want it overwrite your local files.
+
